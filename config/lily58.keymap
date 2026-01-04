@@ -56,7 +56,7 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&kp F1     &kp F2           &kp F3       &kp F4    &kp F5      &trans                         &trans          &trans          &trans        &trans                &trans                 &trans
+&trans     &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT                    &kp CARET       &kp AMPS        &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans
 &kp GRAVE  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT                    &kp CARET       &kp AMPERSAND   &kp STAR      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp BACKSPACE
 &kp F1     &kp F2           &kp F3       &kp F4    &kp MINUS   &kp EQUAL                      &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT             &kp PIPE               &kp GRAVE
 &kp F7     &kp F8           &kp F9       &kp F10   &kp UNDER   &kp PLUS     &trans    &trans  &kp MINUS       &kp EQUAL       &kp UNDER     &kp PLUS              &kp BACKSLASH          &kp TILDE
